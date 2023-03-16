@@ -10,6 +10,5 @@ int main(){
 	scanf("%d",&n);
 	printf("%d is a negative number.",n);*/
 	printf("\nName-Saloni Garg\n Roll No-2210990770");
-	printf("Hello");
 	return 0;
 }
