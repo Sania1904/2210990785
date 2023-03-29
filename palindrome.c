@@ -4,7 +4,7 @@
 int main()
 {
     char s1[25],temp[20];
-    printf("Enter a string please enter a string please:");
+    printf("Enter a string please enter a string 123:");
     gets(s1);
 	strcpy(temp,s1);
 	strrev(s1);
