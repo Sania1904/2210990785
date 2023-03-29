@@ -9,6 +9,6 @@ int main(){
 	printf("Enter any number");
 	scanf("%d",&n);
 	printf("%d is a negative number.",n);*/
-	printf("\nName-Saloni Garg\n Roll No-2210990770");
+	printf("\nName-Sania Batta here \n Roll No-2210990770");
 	return 0;
 }
