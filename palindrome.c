@@ -15,5 +15,6 @@ int main()
 	printf("The given string is a palindrome string.");
 	else
 	printf("The given string is not a palindrome string.");
+	printf("Hello people");
     return 0;
 }
